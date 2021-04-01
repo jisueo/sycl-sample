@@ -1,0 +1,14 @@
+{
+  "name": "syclsample",
+  "version": "1.0.0",
+  "description": "Sandbox Youtube Comment Crawling lite version examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SANDBOX CT-DEV",
+  "license": "ISC",
+  "dependencies": {
+    "sandbox-youtube-comments-lite": "0.0.1"
+  }
+}
