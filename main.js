@@ -1,5 +1,5 @@
 
-const sycl = require('sandbox-youtube-comments-lite');
+const sycl = require('sandbox-youtube-comments');
 
 async function test() {
     const result = await sycl.crawling('gdZLi9oWNZg', 30);

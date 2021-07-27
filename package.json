@@ -9,6 +9,6 @@
   "author": "SANDBOX CT-DEV",
   "license": "ISC",
   "dependencies": {
-    "sandbox-youtube-comments-lite": "0.0.2"
+    "sandbox-youtube-comments": "0.2.0"
   }
 }
